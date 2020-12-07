@@ -32,4 +32,4 @@ Steps to Replicate:
 
 Approach:
 
-The developer implements encapsulation and constructor.
+The developer implemented encapsulation and constructor.
