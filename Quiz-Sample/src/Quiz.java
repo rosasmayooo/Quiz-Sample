@@ -27,7 +27,7 @@ public class Quiz {
 	//Constructor with 2 parameters
 	public Quiz(String name) {
 		this.name = name;
-		this.questions = new ArrayList();
+		this.questions = new ArrayList<Question>();
 	}
 	
 	public void addQuestion(Question question) {
